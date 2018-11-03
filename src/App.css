@@ -1,0 +1,26 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 1em;
+  color: #333;
+}
+
+.left-sidebar {
+  width: 50vw;
+  height: 100vh;
+}
+
+.right-section {
+  height: 100vh;
+  width: 50vw;
+}
+
+.one-source-container {
+  padding: 10px;
+}
+
